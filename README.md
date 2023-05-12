@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @thisnyjared
-- 👀 I’m interested in enginering Ps doun't know anything about it
+- 👋 Hi, I’m @TheCubingJar
 - 🌱 I’m currently learning I am in middle shcool
-- 💞️ I’m looking to collaborate on webprogects
 - 📫 How to reach me jaredfar8@gmail.com
 
 <!---
