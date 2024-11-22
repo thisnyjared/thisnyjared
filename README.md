@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3dJar
-- 🌱 I’m currently learning I am in middle shcool
+- 🌱 I’m currently a student
 - 📫 How to reach me 65688066+thisnyjared@users.noreply.github.com
 
 <!---
